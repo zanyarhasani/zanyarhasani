@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zanyarhasani
-- 👀 I’m interested in PHP, NodeJs
+- 👀 I’m interested in PHP, NodeJs , Android
 - 🌱 I’m currently learning Artificial intelligence
 - 📫 How to reach me: hasanizanyar@gmail.com
 
